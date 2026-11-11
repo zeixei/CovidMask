@@ -12,9 +12,9 @@ namespace Workaround
 		{
 
             Person person1 = new Person();
-            person1.FirstName = "zeynep sude";
-            person1.LastName = "genç";
-            person1.DateOfBirthYear = 2000;
+            person1.FirstName = "z";
+            person1.LastName = "g";
+            person1.DateOfBirthYear = 1980;
             person1.NationalIdentity = 1;
 
             PttManager pttManager = new PttManager(new PersonManager());
